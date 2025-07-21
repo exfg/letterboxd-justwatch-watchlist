@@ -4,7 +4,7 @@ from tkinter import filedialog
 import pprint
 
 #Streaming services you own
-services = ["Netflix", "Disney Plus", "Youtube", "ARD Mediathek", "Amazon Prime Video"]
+services = ["Netflix", "Disney Plus", "Amazon Prime Video"]
 
 result = {}
 
